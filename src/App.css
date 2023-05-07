@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+.pahal_bg{
+  background-image: url("../public/pan india/pan-india-network.jpg");
+}
+.p1{
+  margin-left: 300px;
+  margin-top: 80px;
+}
+.p2{
+  margin-left: 300px;
+  margin-top: 80px;
+}
+.p3{
+  margin-left: 300px;
+  margin-top: 50px;
+}
+.p4{
+  margin-left: 300px;
+  margin-top: 50px;
+
+}
+ .map-logo{
+  margin-left: 30px;
+  margin-top: 30px;
+}
+ .logo{
+  margin-right: 600px;
+}
+.map{
+  height: 300px;
+  width: 450px;
+  /* margin-bottom: 1000px; */
+  margin-left: 700px;
+  margin-top: -200px;
+}
+.map-text{
+  margin-top: 30px;
+}
+
+.magazine{
+  background-image: url('../public/magazine/Design-you.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 470px;
+  width: 100%;
+}
